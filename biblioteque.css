@@ -1,0 +1,126 @@
+/*.pc{
+  font-size: 15px;
+  color:lime;
+}*/
+.ok{
+  width: 10%;
+   height: 2200px;
+   background-image:url(https://cdn.discordapp.com/attachments/767664123513143296/781179502163787776/images.png);
+   float:left;
+}
+.ul{
+	list-style: none;
+    display: flex;
+    padding: 100px 10px ;
+    justify-content:space-around;
+}
+body{
+  background-image:url(try.jfif);
+ background-attachment: fixed;
+}
+.img1{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-1.discordapp.net/external/p-UUNXQWDWfp5D50HuWUKmMr03GjkqpRHVHtbQOx5SQ/%3Fpid%3DApi%26rs%3D1/https/th.bing.com/th/id/OIP.fm3jb92r9AovOZhjBjhWBAHaK-?width=279&height=413);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+
+  #img2{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-1.discordapp.net/external/zcRkfWj34aX6RfHO8sHbVAugvvuwDmVcVapVs1L_AUA/https/www.izneo.com/fr/images/album/31524-w360.jpg?width=300&height=413);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img3{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-1.discordapp.net/external/Dnc2K5VHfoONtvKROcJcPVhrPuW-1uMrUs--tV5_Rq8/https/www.librairielucioles.com/IMG/jpg/oedipe.jpg?width=283&height=413);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img4{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-1.discordapp.net/external/MAxAs8ZrX8rONG4UyX7rcRO3-PAtRInN97KUKXbyg3c/https/img.livraddict.com/covers/154/154401/couv60853825.jpg?width=283&height=413);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img5{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-2.discordapp.net/external/d5nKsgyuRMo8jdHiuk-gxBJZDbieYVVknS3CogrCsGM/http/www.lire-en-tout-genre.fr/imagerie/nathanjeunesse/lenlevementdepersephone.jpg?width=282&height=413);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+    }
+.img6{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-2.discordapp.net/external/Y8M8lYnanhr7aTlTjtp8Nk4stRFmzxDDi5mdPFZOGlM/https/www.ligneclaire.info/wp-content/uploads/2018/10/dedale-et-icare-800x1067.jpg?width=309&height=412);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img7{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-2.discordapp.net/external/2YQgq6DvF48hf81iLyIUmpTzcoSkoHOHLf3sqjg5a5Y/https/www.bdfugue.com/media/catalog/product/cache/1/image/400x/17f82f742ffe127f42dca9de82fb58b1/9/7/9782344001684_1_75.jpg?width=315&height=413);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img8{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-1.discordapp.net/external/7Lf96lveAVTPu0EF77wEvhPy2y1X4yhPbbrDwuNwM3o/https/static.bdphile.info/images/media/cover/110474.jpg?width=310&height=413);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img9{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-2.discordapp.net/external/kBr_o9vNrr0d23td_LWBC-ab8IdPQoXQ1f9ghUO7B6Y/https/i.pinimg.com/originals/44/42/82/44428293038c4e430d7305d1dc2dadb1.jpg?width=309&height=413);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img10{
+  	width: 40%;
+    height: 95%;
+    background: url(https://images-ext-2.discordapp.net/external/ojpXygPBUDXdvC27o93qAsRSU-Z2UNzq1mOSlxIQ7V0/%3Fpid%3DApi%26w%3D552%26h%3D825%26rs%3D1/https/th.bing.com/th/id/OIP.AmYa5ywoxG0UXwhn0qCWjAHaLE?width=276&height=412);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.ca{
+
+    background: grey;
+    box-sizing: border-box;
+    border-radius: 5px ;
+    box-shadow: 0 15px 50px black;
+    color:yellow;
+	position: flex;
+	height:225px;
+	width:350px;
+	padding:3%;
+}
+
+#logo{
+	background-image:url(https://img.freepik.com/vecteurs-libre/logo-du-trident-neptune-vague-mer_6073-754.jpg?size=338&ext=jpg);
+	background-size:100% 100%;
+	width: 10%;
+    height: 10%;
+}
+@media screen and (max-width: 900px) {
+ 
+  p {
+    color: blue;
+  }
+}
