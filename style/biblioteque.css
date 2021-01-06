@@ -1,0 +1,322 @@
+
+.ul{
+  list-style: none;
+    display: flex;
+    padding: 100px 10px ;
+    justify-content:space-around;
+}
+body{
+  background-image:url(../img/try3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-attachment: fixed;
+}
+.img1{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img1.jfif);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+
+  #img2{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img2.jpg);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img3{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img3.jpg);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img4{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img4.jpg);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img5{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img5.jpg);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+    }
+.img6{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img6.jpg);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img7{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img7.jpg);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img8{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img8.jpg);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img9{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img9.jpg);
+    float:left;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.img10{
+    width: 40%;
+    height: 95%;
+    background: url(../img/img10.jfif);
+    float:right;
+    background-size:100% 100%;
+    border-radius: 10px;
+}
+.ca{
+    background: grey;
+    box-sizing: border-box;
+    border-radius: 5px ;
+    box-shadow: 0 15px 50px black;
+    color:yellow;
+  height:225px;
+  width:350px;
+  padding:3%;
+}
+.gril{
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-gap: 20px;
+}
+
+#logo{
+
+    background-size:100% 100%;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.caL{
+    position: absolute;
+    background:rgba(0, 0, 0, 0.5);
+    left: 70%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid #FFFF00;
+    padding: 10px;
+    border-width:2px;
+    border-style:ridge;
+    border-color:white;
+    width: 40%;
+    height:50%;
+    text-align: center;
+    color:yellow;
+}
+.L1{
+    background-image:url(../img/img1.jfif);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L2{
+    background-image:url(../img/img2.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L3{
+    background-image:url(../img/img3.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L4{
+    background-image:url(../img/img4.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L5{
+    background-image:url(../img/img5.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L6{
+    background-image:url(../img/img6.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L7{
+    background-image:url(../img/img7.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L8{
+    background-image:url(../img/img8.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L9{
+    background-image:url(../img/img9.jpg);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.L10{
+    background-image:url(../img/img10.jfif);
+    text-align:center;
+    width: 25%;
+    height: 54%;
+    background-size:100% 100%;
+    border-radius: 10px;
+    position: absolute;
+    left: 15%;
+    top: 23%;
+}
+.zz{
+  float: left;
+}
+.div-categoryContainer{
+  padding: 10px;
+}
+.Titre{
+  margin-top: 50px;
+  text-align: center;
+}
+
+/*.LLOGO{
+    float: left;
+    background-image:url(https://img.freepik.com/vecteurs-libre/logo-du-trident-neptune-vague-mer_6073-754.jpg?size=338&ext=jpg);
+     background-size:100% 100%;
+  width: 10%;
+    height: 10%;
+    border-radius: 100%;
+    background-size: 100% 100%;
+}*/
+@media screen and (min-width: 0px) and (max-width: 850px) {
+    .gril{
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+  grid-template-columns: 1fr;
+  grid-gap: 20px;
+  }
+}
+@media screen and (min-width: 850px) and (max-width: 1250px){ 
+     .gril{
+    display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;}
+    }
+}
+@media screen and (min-width: 1250px){
+    .gril{
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-gap: 20px;
+    }
+}
+
+nav, article, aside, footer {
+  background-color: white;
+  padding: 0.8%;
+}
+
+nav {
+  min-height: 40px;
+  background-color:rgba(0, 0, 0, 0.2);
+  display: flex;
+  margin-bottom: 10px;
+
+  border: 1px solid rgba(219, 226, 226, 1);
+
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  flex: 2;
+  display: flex;
+}
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+}
+
+nav a {
+  display: inline-block;
+  font-size: 1.8rem;
+  /*text-transform: uppercase;*/
+  text-decoration: none;
+  color: black;
+}
