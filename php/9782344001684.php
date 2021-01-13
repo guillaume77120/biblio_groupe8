@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">Jason et la Toison d'or, Premi&egrave;res Armes</h1>
 	</div>
 	</header>
-	<div class="L7"></div>
+	<div class="L"><img src="../img/9782344001684.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Luc Ferry</p>

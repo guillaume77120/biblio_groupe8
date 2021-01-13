@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">L'enl&egrave;vement de Pers&eacute;phone</h1>
 	</div>
 	</header>
-	<div class="L5"></div>
+	<div class="L"><img src="../img/9782092538036.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Hélène de Montardre</p>

@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white"> Percy Jackson : Le voleur de foudre</h1>
 	</div>
 	</header>
-	<div class="L1"></div>
+	<div class="L"><img src="../img/9782226186072.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Rick Riordian</p>

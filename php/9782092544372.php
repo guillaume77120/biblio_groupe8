@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">La mal&eacute;diction d'&oelig;dipe</h1>
 	</div>
 	</header>
-	<div class="L3"></div>
+	<div class="L"><img src="../img/9782092544372.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Hélène de Montardre </p>

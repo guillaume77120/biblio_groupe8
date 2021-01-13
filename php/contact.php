@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
+      <link rel="stylesheet" href="..\style\biblioteque.css">
 </head>
 <body>
     <form method="post" action="receive.php">

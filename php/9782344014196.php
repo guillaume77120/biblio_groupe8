@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">D&eacute;dale et Icare</h1>
 	</div>
 	</header>
-	<div class="L6"></div>
+	<div class="L6"><img src="../img/9782344014196.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Luc Ferry</p>

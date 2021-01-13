@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">Les douze travaux d'Hercule</h1>
 	</div>
 	</header>
-	<div class="L4"></div>
+	<div class="L"><img src="../img/9782092530870.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Hélène de Montardre</p>

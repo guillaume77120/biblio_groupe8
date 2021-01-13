@@ -10,7 +10,7 @@
 	<h1 class="Titre"><font color="white">Achille, La Naissance d'un h&eacute;ros</h1>
 </div>
 </header>
-	<div class="L2"></div>
+	<div class="L"><img src="../img/9791094169261.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Casimo Ferri</p>

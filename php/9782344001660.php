@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">L'Illiade, La pomme de la Discorde</h1>
 	</div>
 	</header>
-	<div class="L9"></div>
+	<div class="L"><img src="../img/9782344001660.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Luc Ferry</p>

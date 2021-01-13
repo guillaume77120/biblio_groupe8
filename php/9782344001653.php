@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">L'Odyss&eacute;e, La col&egrave;re de Poseidon</h1>
 	</div>
 	</header>
-	<div class="L8"></div>
+	<div class="L"><img src="../img/9782344001653.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Luc Ferry</p>

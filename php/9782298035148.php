@@ -10,7 +10,7 @@
 		<h1 class="Titre"><font color="white">Percy Jackson : La mer des Monstres</h1>
 	</div>
 	</header>
-	<div class="L10"></div>
+	<div class="L"> <img src="../img/9782298035148.jpg"></div>
  <div class="caL">
 		<div>
 			<p class="pc">Auteur : Rick Riordian</p>
