@@ -11,87 +11,13 @@ body{
   background-size: cover;
  background-attachment: fixed;
 }
-.img1{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img1.jfif);
+.img{
+    width:40%;
+    height: 100%;
     float:left;
-    background-size:100% 100%;
     border-radius: 10px;
 }
 
-  #img2{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img2.jpg);
-    float:right;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img3{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img3.jpg);
-    float:left;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img4{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img4.jpg);
-    float:right;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img5{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img5.jpg);
-    float:left;
-    background-size:100% 100%;
-    border-radius: 10px;
-    }
-.img6{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img6.jpg);
-    float:right;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img7{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img7.jpg);
-    float:left;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img8{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img8.jpg);
-    float:right;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img9{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img9.jpg);
-    float:left;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
-.img10{
-    width: 40%;
-    height: 95%;
-    background: url(../img/img10.jfif);
-    float:right;
-    background-size:100% 100%;
-    border-radius: 10px;
-}
 .ca{
     background: grey;
     box-sizing: border-box;
@@ -131,8 +57,8 @@ body{
     text-align: center;
     color:yellow;
 }
-.L1{
-    background-image:url(../img/img1.jfif);
+
+.L{
     text-align:center;
     width: 25%;
     height: 54%;
@@ -142,105 +68,7 @@ body{
     left: 15%;
     top: 23%;
 }
-.L2{
-    background-image:url(../img/img2.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L3{
-    background-image:url(../img/img3.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L4{
-    background-image:url(../img/img4.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L5{
-    background-image:url(../img/img5.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L6{
-    background-image:url(../img/img6.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L7{
-    background-image:url(../img/img7.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L8{
-    background-image:url(../img/img8.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L9{
-    background-image:url(../img/img9.jpg);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
-.L10{
-    background-image:url(../img/img10.jfif);
-    text-align:center;
-    width: 25%;
-    height: 54%;
-    background-size:100% 100%;
-    border-radius: 10px;
-    position: absolute;
-    left: 15%;
-    top: 23%;
-}
+
 .zz{
   float: left;
 }
