@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-      <link rel="stylesheet" href="..\style\biblioteque.css">
+      <link rel="stylesheet" href="..\style\bibliotequ.css">
 </head>
 <body>
     <form method="post" action="receive.php">
@@ -37,5 +37,8 @@
         <button type="submit">Valider</button>
       </fieldset>
     </form>
+
+    </p>
+</form>
 </body>
 </html>
