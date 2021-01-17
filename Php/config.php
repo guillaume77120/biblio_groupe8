@@ -1,8 +1,8 @@
 <?php
-$CONFIG=array("root_path"=>"/cours/biblio_groupe8-etape5/biblio_groupe8-master/");
+$CONFIG=array("root_path"=>"/cours/biblio_groupe8-main/");
 $user = 'root';
-$password = ''; 
-$database = 'bibliotheque'; 
-$port = NULL; 
+$password = '';
+$database = 'bibliotheque';
+$port = NULL;
 $HOST = "localhost";
 ?>

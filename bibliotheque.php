@@ -30,7 +30,7 @@ $result = mysqli_query($link,$req);
 		while($row = mysqli_fetch_array($result, MYSQLI_ASSOC)){
 			   		echo "<ul>";
 			  			 echo "<div class='ca'>";
-			  			 	echo "<a href='" . $CONFIG['root_path'] . "php/detail.php?isbn=" . $row['isbn'] . "'><div><img src='img/" . $row["isbn"] . ".jpg'   class='img'alt=''></a><div align='center'>"; 
+			  			 	echo "<a href='" . $CONFIG['root_path'] . "php/detail.php?isbn=" . $row['isbn'] . "'><div><img src='img/" . $row["isbn"] . ".jpg'   class='img'alt=''></a><div align='center'>";
 			  			 		echo "<p class='pc'>Titre : " . $row["titre"] . "</p>";
 			  			 		echo "<p class='pc'>Auteur : " . $row["prenom"] . " " . $row["nom"] . "</p>";
 			    				echo "<p class='pc'>Editeur : " . $row["libelle"] . "</p>";
@@ -38,7 +38,7 @@ $result = mysqli_query($link,$req);
 								echo "<p class='pc'>Isbn : " . $row["isbn"] . "</p>";
 							echo "</div></div>";
 						echo "</div>";
-					echo "</ul>";			
+					echo "</ul>";
 			}
 	}
 ?>
